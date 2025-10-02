@@ -1,4 +1,4 @@
-# RL-GAN for HVAC: 
+# RL-GAN for HVAC
 
 本專案提出了一種新穎的框架，利用強化學習 (Reinforcement Learning, RL) 來引導一個預訓練好的生成對抗網路 (Generative Adversarial Network, GAN)，以生成更具目標導向性與物理一致性的暖通空調 (HVAC) 系統時間序列數據。
 
